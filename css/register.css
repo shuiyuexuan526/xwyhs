@@ -1,0 +1,59 @@
+/***********注册页样式*******************/
+.register {
+	width:55%;
+	margin:20px 20%;
+	border:2px solid #ddd;
+	padding:30px 50px;
+	background:url("../img/bk_line.png") repeat;
+}
+.register input{
+	height:25px;
+	width:300px;
+	padding:5px;
+	margin-bottom:20px;
+	font-size:16px;
+	margin-right:10px;
+}
+ .register input[type="checkbox"]{
+	height:20px;
+	width:20px;
+	margin-right:10px;
+}
+.register button{
+	height:40px;
+	width:405px;
+	background:#e4393c;
+	border-radius:5px;
+	color:#fff;
+	font-size:18px;
+	margin-bottom:20px;
+}
+#c1{
+	margin-left:10px;
+}
+.wedding-gif{
+	position:absolute;
+	top:50px;
+	left:84px;
+	z-index:-20;
+}
+#top div a.bta:hover{
+	color:#0033ff;
+	font-weight:bold;
+}
+.register input[type="button"]{
+	height:35px;
+	width:130px;
+	margin-left:10px;
+	background:#6699cc;
+	color:#fff;
+}
+#top>a>img{
+	margin-left:120px;
+}
+#top>div{
+	right:20px;
+}
+#a1{
+	margin-right:10px;
+}
